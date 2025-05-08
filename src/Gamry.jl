@@ -1,5 +1,5 @@
 module Gamry
 
-# Write your package code here.
+include("DTA.jl")
 
 end
