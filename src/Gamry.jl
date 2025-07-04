@@ -1,5 +1,5 @@
 module Gamry
 
-include("DTA.jl")
+include("cyclic-voltammetry.jl")
 
 end
